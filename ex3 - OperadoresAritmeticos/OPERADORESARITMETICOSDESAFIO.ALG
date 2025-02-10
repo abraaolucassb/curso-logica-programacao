@@ -1,6 +1,6 @@
 Algoritmo "OperadoresAritmeticosDesafio"
-// fazer um programa para apresentar a soma, subtração
-// e multiplicação de TRES números
+// fazer um programa para apresentar a soma, subtraï¿½ï¿½o
+// e multiplicaï¿½ï¿½o de TRES nï¿½meros
 
 Var
    a, b, c, total : inteiro
@@ -8,24 +8,24 @@ Var
 
 Inicio
    // entrada
-   escreva("Digite um número: ")
+   escreva("Digite um numero: ")
    leia(a)
 
-   escreva("Digite outro número: ")
+   escreva("Digite outro numero: ")
    leia(b)
    
-   escreva("Digite outro número: ")
+   escreva("Digite outro numero: ")
    leia(c)
 
-   // processamento e saída
+   // processamento e saï¿½da
    total <- a + b + c
-   escreval("Soma =", total)
+   escreval("Soma=", total)
 
    total <- (a - b) - c
-   escreval("Subtração =", total)
+   escreval("Subtracao=", total)
 
    total <- a * b * c
-   escreva("Multiplicação =", total)
+   escreva("Multiplicacao=", total)
 
 
 Fimalgoritmo
