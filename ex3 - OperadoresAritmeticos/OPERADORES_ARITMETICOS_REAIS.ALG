@@ -4,8 +4,7 @@ algoritmo "Operacoes aritmeticas com numeros reais"
 
 var
 
-num1, num2: real
-soma, subtracao, multiplicacao, divisao: real
+num1, num2, soma, subtracao, multiplicacao, divisao: real
 
 inicio
 
